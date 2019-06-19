@@ -9,6 +9,7 @@
 (load-file "~/.emacs.d/super-emacs/03-interface.el")
 (load-file "~/.emacs.d/super-emacs/04-misc.el")
 (load-file "~/.emacs.d/super-emacs/05-key-bindings.el")
+(load-file "~/.emacs.d/super-emacs/06-vars-etc.el")
 
 ;;Print welcome message
 (princ (concat "Welcome to super-emacs!"

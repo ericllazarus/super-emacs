@@ -81,3 +81,10 @@
 (helm-autoresize-mode 1)
 (setq helm-split-window-in-side-p
       t)
+
+;(setq ispell-program-name "/usr/local/bin/ispell")
+
+
+
+
+
