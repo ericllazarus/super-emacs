@@ -13,7 +13,7 @@
     buffer-move
     auto-complete
     ztree
-    undo-tree
+;    undo-tree
     neotree
     dired-launch
     which-key
@@ -35,7 +35,7 @@
 (ac-config-default)
 
 ;;Start undo-tree
-(global-undo-tree-mode)
+;(global-undo-tree-mode)
 
 ;;Set hooks for dired-launch-mode
 (add-hook 'dired-mode-hook

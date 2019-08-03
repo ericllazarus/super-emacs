@@ -4,7 +4,7 @@
     ("C-|" . mc/mark-all-like-this)
     ("C->" . ace-jump-mode)
     ("C-<" . ace-jump-mode-pop-mark)
-    ("M-/" . undo-tree-visualize)
+;    ("M-/" . undo-tree-visualize)
     ("C-\," . neotree-toggle)
     ("C-)" . theme-looper-enable-next-theme)
     ("C-(" . theme-looper-enable-previous-theme)
